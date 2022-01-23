@@ -15,3 +15,7 @@ By the end of this course, you will:
  - Discover how case studies can be a part of the job interview process. 
  - Examine and consider different case study scenarios. 
  - Have the chance to complete your own case study for your portfolio.
+
+## Full version of notebook
+If you would like to have a look on the results of the notebook, please kindly visit the following URL:
+https://www.kaggle.com/micmak/google-data-analytics-capstone
