@@ -18,4 +18,5 @@ By the end of this course, you will:
 
 ## Full version of notebook
 If you would like to have a look on the results of the notebook, please kindly visit the following URL:
+
 https://www.kaggle.com/micmak/google-data-analytics-capstone
